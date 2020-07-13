@@ -1,0 +1,19 @@
+Assignment description:
+
+Create a page that shows the three images included with the repository.
+The page should contain three images and the description of each image on the page.
+Each image should be clickable and lead to the image itself (i.e. a full screen version of the image included on the page).
+Upload your completed page to your RU account so it can be viewed via Radford's web server.
+Submit the link to your completed page to D2L under the correct assignment.
+Update your git repository to include the completed page as well. 
+
+
+The three images and their descriptions are:
+‘DT11701.jpg’ = Portrait of a Lady
+Bequest of Mrs. Heinrich Meyn, for her friend, Anna Mary King, 1925
+
+DP244873.jpg’ = Hagar and the Angel" by Francesco Maffei
+Maffei, who lived and worked in the cities of Vicenza and Padua, was profoundly influenced by the art of Bassano, Tintoretto, and Veronese, his Venetian predecessors. His style is characteristic for its elegance, far removed from realism. This scene from the biblical book of Genesis shows the angel appearing to Hagar. Having been banished by Abraham to the desert with her infant Ishmael, she is saved by a heavenly creature who directs her to a spring of water.
+
+DP-14344-001.jpg = The Abduction of Rebecca by Eugene Delacroix
+Throughout his career, Delacroix was inspired by the novels of Sir Walter Scott, a favorite author of the French Romantics. This painting depicts a scene from Ivanhoe: the Jewish heroine Rebecca, who had been confined in the castle of Front de Boeuf (seen in flames), is carried off by two Saracen slaves commanded by the covetous Christian knight Bois-Guilbert. The contorted, interlocking poses and compacted space, which shifts abruptly from the elevated foregound to the fortress behind, create a sense of intense drama. Apart from the still life at lower left, the only element of calm is Rebecca herself. 
